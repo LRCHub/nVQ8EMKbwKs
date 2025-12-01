@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "月が綺麗",
+  "base_artist": "岩見拓馬",
+  "createdAt": "2025-12-01T11:28:42.630423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "月が綺麗",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_月が綺麗_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "月が綺麗",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_月が綺麗_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "月が綺麗",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_02_月が綺麗_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "月が綺麗ですね",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_03_月が綺麗ですね_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "月が綺麗ですね",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_04_月が綺麗ですね_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "月が綺麗ですね",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_05_月が綺麗ですね_amazarashi.txt"
+    }
+  ]
+}
